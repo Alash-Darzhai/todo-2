@@ -1,1 +1,3 @@
-# todo: `https://todo-rouge-one.vercel.app`
+# todo
+
+Ссылка на сайт: `https://todo-rouge-one.vercel.app`
